@@ -1,27 +1,6 @@
 # Custom Bottom Navigation Bar 
 
-This project demonstrates a **custom animated bottom navigation bar** built entirely in **React Native using Expo Snack**.
-
-### Features
-
-- Fully animated circle background that moves with tab change
-- Smooth transitions using `Animated` API (no Reanimated or SVGs)
-- Curved navbar effect built entirely with `View` components
-- Icons implemented using simple emoji-based `<Text>` (🏠, 📍)
-- Works out-of-the-box on Snack without any external libraries
-
-### Design Highlights
-
-- The "curve" behind the icons is achieved **without SVGs** or special libraries.
-- Only `View` components with smart border radius and positioning are used to create a **semicircle-like background movement**.
-- The active icon **lifts up slightly** when selected using smooth `translateY` animation.
-
-### 🛠Technologies Used
-
-- **React Native **
-- **Animated API** (`react-native` built-in, no `react-native-reanimated`)
-- **Emoji-based icons** (no vector icons or images)
-
+This project demonstrates a **custom animated bottom navigation bar** built entirely in **React Native**.
 
 ### 📸 Preview
 
@@ -34,3 +13,33 @@ This project demonstrates a **custom animated bottom navigation bar** built enti
 </p>
 
 
+### Features
+
+- Fully animated circle background that moves with tab change
+- Smooth transitions using `Animated` API (no Reanimated)
+- Curved navbar effect built entirely with `View` components (no SVGs)
+
+### Design Highlights
+
+- The "curve" behind the icons is achieved **without SVGs** or special libraries.
+- Only `View` components with smart border radius and positioning are used to create a **semicircle-like background movement**.
+- The active icon **lifts up slightly** when selected using smooth `translateY` animation.
+
+### 🛠Technologies Used
+
+- **React Native**
+- **Animated API** (`react-native` built-in, no `react-native-reanimated`)
+- **Emoji-based text for icons for simplicity** (Professional-grade projects typically use vector icons)
+
+
+## 👋 Author
+
+- [Sipra Sanghamitra Dash](https://github.com/siprasanghamitradash)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+### 🎓 Academic Honesty
+
+*DO NOT COPY FOR AN ASSIGNMENT* - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
