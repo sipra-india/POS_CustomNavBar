@@ -31,3 +31,9 @@ This project demonstrates a **custom animated bottom navigation bar** built enti
 
 ![Custom Navbar](https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/NextPage.jpg)
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/HomePage.jpg" width="250" />
+  <img src="https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/NextPage.jpg" width="250" />
+</p>
+
+
