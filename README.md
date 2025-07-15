@@ -4,12 +4,12 @@ This project demonstrates a **custom animated bottom navigation bar** built enti
 
 ### 📸 Preview
 
-![Custom Navbar](https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/NavbarCloseUp.jpg)
+![Custom Navbar](https://raw.githubusercontent.com/siprasanghamitradash/POC_CustomBottomTab/main/assets/NavbarCloseUp.jpg)
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/HomePage.jpg" width="300" />
-  <img src="https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/NextPage.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/siprasanghamitradash/POC_CustomBottomTab/main/assets/HomePage.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/siprasanghamitradash/POC_CustomBottomTab/main/assets/NextPage.jpg" width="300" />
 </p>
 
 
