@@ -27,5 +27,5 @@ This project demonstrates a **custom animated bottom navigation bar** built enti
 
 ## 📸 Demo Screenshot
 
-![Custom Navbar](https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/IMG_20250715_140143.jpg)
+(https://raw.githubusercontent.com/sipra-india/POS_CustomNavBar/main/assets/IMG_20250715_140143.jpg)
 
