@@ -1,11 +1,27 @@
-# Sample Snack app
+# Custom Bottom Navigation Bar 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This project demonstrates a **custom animated bottom navigation bar** built entirely in **React Native using Expo Snack**.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+### Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Fully animated circle background that moves with tab change
+- Smooth transitions using `Animated` API (no Reanimated or SVGs)
+- Curved navbar effect built entirely with `View` components
+- Icons implemented using simple emoji-based `<Text>` (🏠, 📍)
+- Works out-of-the-box on Snack without any external libraries
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+### Design Highlights
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- The "curve" behind the icons is achieved **without SVGs** or special libraries.
+- Only `View` components with smart border radius and positioning are used to create a **semicircle-like background movement**.
+- The active icon **lifts up slightly** when selected using smooth `translateY` animation.
+
+### 🛠Technologies Used
+
+- **React Native **
+- **Animated API** (`react-native` built-in, no `react-native-reanimated`)
+- **Emoji-based icons** (no vector icons or images)
+
+
+### 📸 Preview
+
