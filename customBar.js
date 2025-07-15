@@ -136,6 +136,7 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: 30,
     backgroundColor: 'white',
     zIndex: 0,
+    elevation: 5,
     paddingTop: 15,
   },
   movingCircleRightA: {
@@ -146,6 +147,7 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: CIRCLE_SIZE / 2,
     backgroundColor: 'white',
     marginLeft: CIRCLE_SIZE * 2,
+    elevation: 5,
     zIndex: 0,
   },
   movingCircleRightB: {
@@ -156,6 +158,7 @@ const styles = StyleSheet.create({
     borderTopRightRadius: 0,
     backgroundColor: '#f0f0f0',
     marginLeft: CIRCLE_SIZE * 2,
+    elevation: 5,
     zIndex: 0,
   },
   movingCircleLeftA: {
@@ -166,6 +169,7 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: CIRCLE_SIZE,
     backgroundColor: 'white',
     marginRight: CIRCLE_SIZE,
+    elevation: 5,
     zIndex: 0,
   },
   movingCircleLeftB: {
@@ -176,6 +180,7 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 0,
     backgroundColor: '#f0f0f0',
     marginRight: CIRCLE_SIZE,
+    elevation: 5,
     zIndex: 0,
   },
 });
