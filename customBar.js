@@ -79,7 +79,7 @@ export default function CustomBar({ state, descriptors, navigation }) {
             }
           };
 
-          const icon = label === 'Home' ? '🏠' : '📍';
+          const icon = label === 'Home' ? '🏠' : '🛒';
 
           return (
             <TouchableOpacity
