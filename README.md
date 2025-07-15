@@ -16,13 +16,12 @@ This project demonstrates a **custom animated bottom navigation bar** built enti
 ### Features
 
 - Fully animated circle background that moves with tab change
-- Smooth transitions using `Animated` API (no Reanimated)
+- Smooth transitions using `Animated` API (no `react-native-reanimated`)
 - Curved navbar effect built entirely with `View` components (no SVGs)
 
 ### Design Highlights
 
-- The "curve" behind the icons is achieved **without SVGs** or special libraries.
-- Only `View` components with smart border radius and positioning are used to create a **semicircle-like background movement**.
+- The "curve" behind the icons is achieved **without SVGs** or special libraries. Only `View` components with smart border radius and positioning are used to create a **background movement**.
 - The active icon **lifts up slightly** when selected using smooth `translateY` animation.
 
 ### 🛠Technologies Used
